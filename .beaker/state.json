@@ -1,0 +1,69 @@
+{
+    "serenity": {
+        "cw20-token": {
+            "code_id": 1374,
+            "addresses": {
+                "default": "aura1zaukucyak43avqr9lj3fwp93h5h9ft4c4y9nvtu96dpneh6ysnhscnpecj"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        }
+    },
+    "euphoria": {
+        "cw20_token": {
+            "code_id": 1281,
+            "addresses": {
+                "default": "aura1jv0j23ml9d0mc2v5x5qk9mzcc3zq9suvehppprs5k6cqc37m6tzq6kv33k"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        },
+        "cw20_token_test": {
+            "code_id": 1240,
+            "addresses": {
+                "default": "aura1zlyx02ta6344wdwyszt75pkw5wezy029hx4mh9hxv2mud94rj95snavklm"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        },
+        "campaign": {
+            "code_id": 1337,
+            "addresses": {
+                "default": "aura19f3v7xqwzjgrj988w4r8elj5x2wdl5qzhq8uu2a7h5keyqpcq4qsa0k8mg"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        },
+        "campaign_factory": {
+            "code_id": 1338,
+            "addresses": {
+                "default": "aura12kzvavms28n9crvamgcy396k453kh6j0a6wkpp3mzd06wzvpvswscux5tz"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        },
+        "cw721_metadata_onchain": {
+            "code_id": 1227,
+            "addresses": {
+                "default": "aura163gwaw6gc6xyyrx2p633pykrcs674fy739fjn0gk7h50n5fz8v2qydh65h"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        },
+        "cw721": {
+            "code_id": 630,
+            "addresses": {
+                "default": "aura1063tg6mhfyw2xsmp0grm4hlpvg9nklm6zxx6e34mt08zet52yprsvte456"
+            },
+            "proposal": {
+                "store_code": null
+            }
+        }
+    }
+}
